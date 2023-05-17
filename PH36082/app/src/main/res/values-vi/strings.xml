@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PH36082</string>
+    <string name="content">Các thành phần cơ bản trong Android:\n                            \n                            1. Activity \n\n                            2. Service \n\n                            3. ContentProvider \n\n                            4. BroadcastReceive</string>
+</resources>
