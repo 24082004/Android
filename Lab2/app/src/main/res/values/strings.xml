@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab 2</string>
+    <string name="dabong_choigame">chưa chọn sở thích\n</string>
+    <string name="chon_gioitinh">chưa chọn giới tính\n</string>
 </resources>
