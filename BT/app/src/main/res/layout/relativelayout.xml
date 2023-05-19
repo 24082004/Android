@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|end"
+        android:ignoreGravity="@id/view2">
+        <View
+            android:id="@+id/view1"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="#e8d33636" />
+        <View
+            android:id="@+id/view2"
+            android:layout_width="50dp"
+            android:layout_height="200dp"
+            android:background="#E711FF00" />
+        <View
+            android:id="@+id/view3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#FF9800"/>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
