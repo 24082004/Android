@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_ph36082</string>
+    <string name="txt_chaomungbantrolai">Chào mừng bạn trở lại</string>
+    <string name="txt_dangnhap">Đăng nhập</string>
+    <string name="txt_chaomungban">Chào mừng bạn\n</string>
+    <string name="txt_dangkytaikhoan">Đăng ký tài khoản\n</string>
+    <string name="qu_n_l_nh_n_s">Quản Lý Nhân Sự</string>
+    <string name="fpoly_software_company">FPOLY SOFTWARE COMPANY</string>
+</resources>
