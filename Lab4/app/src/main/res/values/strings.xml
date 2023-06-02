@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="QLNS">Quản lý nhân sự</string>
+    <string name="txt_FPT">Fpoly Software Company</string>
+    <string name="btn_PB">Phòng Ban</string>
+</resources>

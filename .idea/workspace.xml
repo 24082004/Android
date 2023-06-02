@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f57c304-11ec-4091-9d0c-6727f39d7080" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/androidTest/java/com/example/assignment_ph36082/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/java/com/example/assignment_ph36082/dangky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/java/com/example/assignment_ph36082/dangnhap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/java/com/example/assignment_ph36082/trangchu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/java/com/example/assignment_ph36082/welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/bich2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/boder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/co3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/edittext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/khung.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/nhep1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/parent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/ro1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/drawable/thoat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/layout/activity_dangky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/layout/activity_dangnhap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/layout/activity_trangchu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/layout/activity_welcome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values-night/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/app/src/test/java/com/example/assignment_ph36082/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_ph36082/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QaMWVty4vowiZoUiHNhXmDnobo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/AndroidStudioProjects/Android/Lab4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f57c304-11ec-4091-9d0c-6727f39d7080" name="Changes" comment="" />
+      <created>1685587274052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685587274052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
