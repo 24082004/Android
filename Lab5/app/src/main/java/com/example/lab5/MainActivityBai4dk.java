@@ -44,8 +44,6 @@ public class MainActivityBai4dk extends AppCompatActivity {
                     bundle.putString("password", sPassword);
 
                     intent.putExtras(bundle);
-
-//                    getData.launch(intent);
                     startActivity(intent);
                 }
             }

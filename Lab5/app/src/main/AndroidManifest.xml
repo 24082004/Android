@@ -15,16 +15,25 @@
         <activity
             android:name=".MainActivityBai4dn"
             android:exported="true">
-
-        </activity>
-        <activity
-            android:name=".MainActivityBai1"
-            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivityBai4dk"
+            android:exported="true">
+
+        </activity>
+        <activity android:name=".MainActivityBai2"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".MainActivityBai1"
+            android:exported="true">
+
         </activity>
     </application>
 
