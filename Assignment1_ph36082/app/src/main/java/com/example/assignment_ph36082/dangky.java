@@ -48,7 +48,6 @@ public class dangky extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // validate input data
                 String sUserName = edtUsername.getText().toString().trim();
                 String sPassword = edtPassword.getText().toString().trim();
                 String sRetypePass = edtRetypePass.getText().toString().trim();
